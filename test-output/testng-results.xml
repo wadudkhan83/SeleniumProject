@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-25T11:41:22 EST" name="Default suite" finished-at="2023-02-25T11:41:27 EST" duration-ms="5071">
+    <groups>
+    </groups>
+    <test started-at="2023-02-25T11:41:22 EST" name="Default test" finished-at="2023-02-25T11:41:27 EST" duration-ms="5071">
+      <class name="selenium.BrowserTest">
+        <test-method signature="browserTest()[pri:0, instance:selenium.BrowserTest@470f1802]" started-at="2023-02-25T11:41:22 EST" name="browserTest" finished-at="2023-02-25T11:41:27 EST" duration-ms="5021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+      </class> <!-- selenium.BrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -5,11 +5,12 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
+@Test
 public class BrowserTest {
 
 	//public static void main(String[] args) {
 	
-	@Test
+	
 	public void browserTest() {
 		
 		System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
